@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MoodAnalyser
+namespace MoodAnalyserproject
 {
     internal class Program
     {
